@@ -1,0 +1,4 @@
+imdbparser==1.0.22
+pandas==2.0.3
+tqdm==4.65.0
+Wikipedia_API==0.6.0
